@@ -1,0 +1,6 @@
+/Users/denisemai/Projects/deliverable_one/deliverable_one/obj/x86/Debug/deliverable_one.csprojAssemblyReference.cache
+/Users/denisemai/Projects/deliverable_one/deliverable_one/obj/x86/Debug/deliverable_one.csproj.CoreCompileInputs.cache
+/Users/denisemai/Projects/deliverable_one/deliverable_one/bin/Debug/deliverable_one.exe
+/Users/denisemai/Projects/deliverable_one/deliverable_one/bin/Debug/deliverable_one.pdb
+/Users/denisemai/Projects/deliverable_one/deliverable_one/obj/x86/Debug/deliverable_one.exe
+/Users/denisemai/Projects/deliverable_one/deliverable_one/obj/x86/Debug/deliverable_one.pdb
